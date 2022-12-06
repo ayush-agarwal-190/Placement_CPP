@@ -1,0 +1,24 @@
+boolaplpha
+noboolalpha
+hex
+dec
+oct
+showbase
+noshowbase
+std::uppercase
+std::nouppercase
+
+setw(n)
+setfill(n)
+std::left
+std::right
+
+#FLOAT POINT manipulating Default format
+setprecision(n);
+shoepoint;
+showpar;
+upercase;
+std::fixed;
+
+Instead of using % remainder sign use mod keyword;
+ 
